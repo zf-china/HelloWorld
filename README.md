@@ -1,2 +1,4 @@
 # HelloWorld
-Learning test
+## I'm learning Python.
+## I've learned C++ and C.
+
